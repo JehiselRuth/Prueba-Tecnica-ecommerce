@@ -12,8 +12,8 @@ que se considere adecuado para los mismos).
 ## • Desarrollar unos test al Endpoint REST que validen las siguientes peQciones al servicio con los
 datos del ejemplo:
 
-o Test 1: peQción a las 10:00 del día 14 del producto 35455 para la brand 1 (ZARA)
-o Test 2: peQción a las 16:00 del día 14 del producto 35455 para la brand 1 (ZARA)
-o Test 3: peQción a las 21:00 del día 14 del producto 35455 para la brand 1 (ZARA)
-o Test 4: peQción a las 10:00 del día 15 del producto 35455 para la brand 1 (ZARA)
-o Test 5: peQción a las 21:00 del día 16 del producto 35455 para la brand 1 (ZARA)
+### o Test 1: peQción a las 10:00 del día 14 del producto 35455 para la brand 1 (ZARA)
+### o Test 2: peQción a las 16:00 del día 14 del producto 35455 para la brand 1 (ZARA)
+### o Test 3: peQción a las 21:00 del día 14 del producto 35455 para la brand 1 (ZARA)
+### o Test 4: peQción a las 10:00 del día 15 del producto 35455 para la brand 1 (ZARA)
+### o Test 5: peQción a las 21:00 del día 16 del producto 35455 para la brand 1 (ZARA)
